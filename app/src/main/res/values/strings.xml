@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fynd</string>
+    <string name="title_map">Map</string>
+    <string name="title_swipe">Swipe</string>
+    <string name="title_inbox">Inbox</string>
+    <string name="title_account">Account</string>
+</resources>

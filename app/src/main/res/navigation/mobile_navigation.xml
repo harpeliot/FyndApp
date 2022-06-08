@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_swipe">
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="net.beryl.fynd.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_swipe"
+        android:name="net.beryl.fynd.ui.swipe.SwipeFragment"
+        android:label="@string/title_swipe"
+        tools:layout="@layout/fragment_swipe" />
+
+    <fragment
+        android:id="@+id/navigation_inbox"
+        android:name="net.beryl.fynd.ui.inbox.InboxFragment"
+        android:label="@string/title_inbox"
+        tools:layout="@layout/fragment_inbox" />
+
+    <fragment
+        android:id="@+id/navigation_account"
+        android:name="net.beryl.fynd.ui.account.AccountFragment"
+        android:label="@string/title_account"
+        tools:layout="@layout/fragment_account" />
+</navigation>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083162495791",
+    "project_id": "fynd-4416a",
+    "storage_bucket": "fynd-4416a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083162495791:android:aee199b191883fee402fda",
+        "android_client_info": {
+          "package_name": "net.beryl.fynd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083162495791-eg32sg7qc9d6posg4st2cc5frli90jmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCufIVoWSbU7pcSIreN_KdiRjkJvsA6ZsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083162495791-eg32sg7qc9d6posg4st2cc5frli90jmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
